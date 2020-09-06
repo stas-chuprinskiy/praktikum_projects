@@ -1,2 +1,3 @@
 # praktikum_projects
-There you can find my projects which I've done in Yandex.Praktikum
+
+Тут собраны мои проекты, которые я выполнил в рамках учебы в Яндекс.Практикум
