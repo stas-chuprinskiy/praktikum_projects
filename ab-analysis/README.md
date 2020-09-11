@@ -27,4 +27,4 @@
 
 ## Используемые библиотеки
 
-Основные используемые библиотеки: <code>pandas</code>, <code>numpy</code>, <code>matplotlib</code>, <code>math</code>, <code>scipy</code>
+<code>pandas</code>, <code>numpy</code>, <code>matplotlib</code>, <code>math</code>, <code>scipy</code>
